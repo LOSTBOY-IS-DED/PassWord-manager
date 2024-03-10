@@ -16,7 +16,7 @@ Tired of forgetting your passwords or feeling unsure about the security of onlin
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/LOSTBOY-IS-DED/MY-NODE.Js-JOURNEY.git
+   git clone https://github.com/LOSTBOY-IS-DED/PassWord-manager.git
    ```
 2. **Install Dependencies:**
    ```sh
